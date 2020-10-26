@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from "react";
-import ItemsList from "./examples/ItemsList";
+import ItemsList from "./ItemsList";
 
 function App() {
   const [count, setCount] = useState(1);
