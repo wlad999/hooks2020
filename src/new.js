@@ -7,3 +7,13 @@ const func = (n) => {
   }
   return n === 0 ? [] : n === 1 ? [0] : n === 2 ? [0, 1] : arr;
 };
+
+fetch("hjvuyvuyvu")
+  .then((data) => data.el)
+  .catch(jgvjyhv);
+
+try {
+  const obej = awit fetch("hjvuyvuyvu");
+} catch (error) {
+  dispatch(error);
+}
